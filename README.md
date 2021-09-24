@@ -1,4 +1,8 @@
 # InnLab
-## Universidad Icesi
+##### Universidad Icesi
+### ¿Qué es el innlab?
 
-### En construcción información: afnaranjo@icesi.edu.co | 
+
+### Misión
+
+#### En construcción información: afnaranjo@icesi.edu.co | 
