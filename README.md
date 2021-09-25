@@ -10,7 +10,7 @@ El Innlab fue galardonado como el mejor campus innovador del premio CIDESCO 2017
 El  Innlab de la Universidad Icesi, es un lugar donde se pueden realizar clases magistrales, workshops creativos, trabajo colaborativo en equipos, prototipado de ideas, juegos de rol, reuniones de tipo mesa redonda, y presentaciones, entre otras actividades académicas y empresariales. Para el diseño y construcción de este espacio, se tuvieron en cuenta referentes internacionales como: el d.school de la Universidad de Standford, el Laboratorio de Innovación de la Universidad de Harvard, y el C4D (Center for Competitive Creative Design) de la Universidad de Cranfield del Reino Unido, entre otros. Como ventajas, el Innlab de la Universidad Icesi cuenta con: la apertura en sus espacios, la flexibilidad del mobiliario, y las diferentes estancias o ambientes; lo que permite que los estudiantes disfruten de un espacio cómodo y dado al movimiento, ya que la Innovación está relacionada con la acción. Así mismo el uso del color, la musicalización, las oportunidades de trabajar en superficies amplias, los beneficios mnemotécnicos y el aprendizaje de nuevas estructuras mentales, son esenciales para la generación de ideas y pensamiento creativo. Además de los escritorios y sillas con rodachinas, contar con mesas de trabajo y asientos altos, permite que los estudiantes cuenten con facilidad y predisposición hacia el movimiento en la interacción con el profesor, sus compañeros y los elementos del espacio. El mobiliario ergonómico de este espacio innovador, se ajusta a la anatomía de sus estudiantes favoreciendo que en las jornadas de trabajo, se eviten dolores osteomusculares por malas posturas adoptadas durante la sesión académica. Los protagonistas de la clase son: el post-it y los tableros móviles, que reflejan que las ideas no son estáticas, y permiten mover, agrupar, reemplazar y replantear ideas innovadoras construidas a partir del trabajo colaborativo. El Innlab de la Universidad Icesi cuenta con los elementos fundamentales para la generación de ideas novedosas y el desarrollo del pensamiento creativo. 
 
 # Espacios
-<iframe width="100%" height="450px" src="https://www.youtube.com/embed/5U4s1nJTOf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/5U4s1nJTOf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Equipo
 #### Maria Clara Betancourt
@@ -23,7 +23,7 @@ El  Innlab de la Universidad Icesi, es un lugar donde se pueden realizar clases 
 
 
 # Portafolio de servicios
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQV60_fTcKsT01_XtAgXO0fL3Hy98DXeFn6mg-sihe83RNfbDYVd7TSF-2vlAXMZc5ETOObNXVFYZmx/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQV60_fTcKsT01_XtAgXO0fL3Hy98DXeFn6mg-sihe83RNfbDYVd7TSF-2vlAXMZc5ETOObNXVFYZmx/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="450px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 # Contacto y Redes Sociales
