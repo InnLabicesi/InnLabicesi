@@ -40,3 +40,5 @@ afnaranjo@icesi.edu.co
 #### En construcción información: afnaranjo@icesi.edu.co | 
 
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-2d4e524d-f91c-4827-9210-ce3c01d331e4"></div>
