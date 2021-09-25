@@ -3,8 +3,6 @@
 
 
 # ¿Qué es el innlab?
-Este es un centro de innovación de clase mundial. "Es mucho más que un espacio". El centro tiene como misión potenciar la capacidad innovadora de nuestro contexto mediante la transformación de personas que liderarán los cambios de sus organizaciones, en pro del bienestar de la comunidad. El centro tiene una oferta diversa para los estudiantes, profesores, profesionales y empresas de la región en diversos formatos como seminarios, diplomados, maestrías, consultorías, eventos, clubes de innovación, entre otros. 
-
 El Innlab fue galardonado como el mejor campus innovador del premio CIDESCO 2017-2018. En su infraestructura, el laboratorio de innovación de Icesi cuenta con varios espacios físicos únicos en la región y el país para liderar y facilitar procesos creativos y de gestión de la innovación. Desde el 2015 contamos con estos espacios adecuados para la colaboración entre personas y el desarrollo de proyectos de innovación. Los más de 400m2 invitan a los asistentes a cambiar el chip y conectarse con su yo creativo. Este laboratorio es un espacio con mobiliario y adecuación flexible que posibilitan la aplicación de múltiples metodologías, siendo un espacio de co-creación adecuado para la ejecución de proyectos de innovación cualquier tipo de industria. Es un espacio para un aprendizaje diferente donde el atril y el profesor magistral evolucionan a un mundo de aprendizaje aplicado donde el profesor es un facilitador y guía de un proceso de exploración constante.
 
 <img src="https://raw.githubusercontent.com/InnLabicesi/InnLabicesi/main/innlab%20icesi%201.png" alt="Innlab Universidad Icesi" style="width: 100%; margin: 0px;">
