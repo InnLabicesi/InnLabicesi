@@ -26,7 +26,7 @@ El  Innlab de la Universidad Icesi, es un lugar donde se pueden realizar clases 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQV60_fTcKsT01_XtAgXO0fL3Hy98DXeFn6mg-sihe83RNfbDYVd7TSF-2vlAXMZc5ETOObNXVFYZmx/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="600px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-# Contacto
+# Contacto y Redes Sociales
 https://wa.me/message/XPZXXLCBQ7HKH1 
 
 afnaranjo@icesi.edu.co
