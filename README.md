@@ -1,4 +1,6 @@
-<img src="https://yt3.ggpht.com/ytc/AKedOLQTms86uZZr547pPpqpY-y-yTsjZMQdpO5wXAxe=s900-c-k-c0x00ffffff-no-rj" alt="Innlab Universidad Icesi - YouTube" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 100%; margin: 0px;">
+<img src="https://raw.githubusercontent.com/InnLabicesi/InnLabicesi/main/logo%20innlab%20icesi.png" alt="Innlab Universidad Icesi" style="width: 400px; margin: 0px;">
+
+
 
 # ¿Qué es el innlab?
 Este es un centro de innovación de clase mundial. "Es mucho más que un espacio". El centro tiene como misión potenciar la capacidad innovadora de nuestro contexto mediante la transformación de personas que liderarán los cambios de sus organizaciones, en pro del bienestar de la comunidad. El centro tiene una oferta diversa para los estudiantes, profesores, profesionales y empresas de la región en diversos formatos como seminarios, diplomados, maestrías, consultorías, eventos, clubes de innovación, entre otros. 
