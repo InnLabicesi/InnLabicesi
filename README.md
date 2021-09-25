@@ -19,15 +19,23 @@ El  Innlab de la Universidad Icesi, es un lugar donde se pueden realizar clases 
 #### Francisco Camacho
 #### Andrés Felipe Naranjo
 
-## Libro y Herramientas
+# Libro y Herramientas
+
 
 # Portafolio de servicios
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQV60_fTcKsT01_XtAgXO0fL3Hy98DXeFn6mg-sihe83RNfbDYVd7TSF-2vlAXMZc5ETOObNXVFYZmx/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="600px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
 # Contacto
 https://wa.me/message/XPZXXLCBQ7HKH1 
 
 afnaranjo@icesi.edu.co
+
+<div data-mc-src="518a9a86-e222-4977-9208-bec16effb8f3#instagram"></div>
+<script 
+  src="https://cdn2.woxo.tech/a.js#614f93ea19a6f4001683ed99" 
+  async data-usrc>
+</script>
 
 #### En construcción información: afnaranjo@icesi.edu.co | 
 
