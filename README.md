@@ -17,6 +17,8 @@ El  Innlab de la Universidad Icesi, es un lugar donde se pueden realizar clases 
 #### José Moncada
 #### Néstor Tobar
 #### Francisco Camacho
+Diseñador Industrial apasionado por el Branding, con vocación por la pedagogía y el Diseño Gráfico. Interesado en aportar a los procesos de aprendizaje de personas de diferentes edades y gestionar los vínculos que las marcas pueden generar con sus audiencias internas y externas. Empre- e imprendedor; con un interés constante por seguir aprendiendo y afrontar nuevos retos. Maestría en Mercadeo (Branding). 90% bilingüe (inglés). Italiano básico. Experiencia de más de 8 años como docente
+universitario de innovación y prototipado, entre otros campos; más de dos años como emprendedor y dos años en Mercadeo en empresa multinacional.
 #### Andrés Felipe Naranjo
 
 # Libro y Herramientas
