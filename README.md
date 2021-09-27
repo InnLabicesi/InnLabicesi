@@ -33,8 +33,7 @@ Docente en los programas de pregrado de Diseño de medios interactivos y Diseño
 #### Francisco Camacho
 <img src="https://raw.githubusercontent.com/InnLabicesi/InnLabicesi/main/francisco_camacho_innlab.jpg" alt="Innlab Francisco Camacho" style="width: 200px; margin: 0px;">
 
-Diseñador Industrial apasionado por el Branding, con vocación por la pedagogía y el Diseño Gráfico. Interesado en aportar a los procesos de aprendizaje de personas de diferentes edades y gestionar los vínculos que las marcas pueden generar con sus audiencias internas y externas. Empre- e imprendedor; con un interés constante por seguir aprendiendo y afrontar nuevos retos. Maestría en Mercadeo (Branding). 90% bilingüe (inglés). Italiano básico. Experiencia de más de 8 años como docente
-universitario de innovación y prototipado, entre otros campos; más de dos años como emprendedor y dos años en Mercadeo en empresa multinacional.
+Diseñador Industrial apasionado por el Branding, con vocación por la pedagogía y el Diseño Gráfico. Interesado en aportar a los procesos de aprendizaje de personas de diferentes edades y gestionar los vínculos que las marcas pueden generar con sus audiencias internas y externas. Empre- e imprendedor; con un interés constante por seguir aprendiendo y afrontar nuevos retos. Maestría en Mercadeo (Branding). 90% bilingüe en idioma inglés, italiano básico. Experiencia de más de 8 años como docente universitario de innovación y prototipado, entre otros campos; más de dos años como emprendedor y dos años en área de Mercadeo en empresa multinacional.
 
 
 #### Andrés Felipe Naranjo
